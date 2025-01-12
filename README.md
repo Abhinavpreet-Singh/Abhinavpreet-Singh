@@ -17,7 +17,7 @@
 
 <hr>
 
-### My Works
+### Achievements
 - 🏆 **High Commendation Award** at Young India Model United Nations (Chitkara University)
 - 💻 **Sadak-AI Project** (HTM5 Hackathon) — Personalized learning roadmaps using AI.
 - 🔗 **Blockify** — A blockchain project for digital asset security (HackIndia 2024).
