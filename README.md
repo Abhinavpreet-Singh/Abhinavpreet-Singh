@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- <img align="center" alt="" src="./web3.jpeg"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**Abhinavpreet-Singh/Abhinavpreet-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> Hola, I'm <a href = "https://www.linkedin.com/in/abhinavpreet-singh-arora/">Abhinavpreet Singh Arora</a>! Nice to meet you here <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="👋🏻" height="35" width="35" /></h2>
 
-Here are some ideas to get you started:
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavpreet&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpreet" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width=300px height=200px alt="side_sticker" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
+
+### About Myself:
+
+- 🎓 I am a first-year **Computer Science Engineering** student at **Chitkara University**, batch of **2024-2028**.
+- 💻 Currently working on **GeneticX**, an AI-powered tool to visualize DNA mutations and predict their impact on protein structure and disease susceptibility.
+- 👨‍💻 Passionate about **Web Development** and exploring **AI/ML tools**.
+- 🚀 I’ve participated in multiple hackathons, including **HTM5**, **HackIndia**, and **Code Slam**, as part of my team **Dive Into Infinity**.
+- 📚 I’m always learning — currently working through Coursera specializations on **Marketing Analytics** and **Digital Financial Services**.
+
+<hr>
+
+### My Achievements and Hackathon Wins:
+- 🏆 **High Commendation Award** at Young India Model United Nations (Chitkara University)
+- 💻 **Sadak-AI Project** (HTM5 Hackathon) — Personalized learning roadmaps using AI.
+- 🔗 **Blockify** — A blockchain project for digital asset security (HackIndia 2024).
+- 📱 **Meteor Mind** — An interactive quiz app built using **React.js**.
+- ✨ **Plancor** — Buyer’s portal submitted to SIH 2024.
+
+<hr>
+
+### Projects:
+- **GeneticX**: AI-powered tool for visualizing genetic mutations.
+- **Meteor Mind**: Quiz app with a space-themed UI.
+- **Plancor**: Buyer’s portal project focused on clean UX design.
+
+<hr>
+
+### Connect with Me:
+Don’t hesitate to reach out — I’m always open for a conversation! 🤝
+<a href="https://linkedin.com/in/abhinavpreet-singh-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavpreet-singh-arora" height="30" width="40" /></a>
+<a href="https://leetcode.com/abhinavpreet-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavpreet-arora" height="30" width="40" /></a>
+
+<hr>
+
+### Languages, Tools, and Technologies:
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,py,git,github,vscode,aws,html,css,figma,nginx,linux,docker&theme=dark&perline=18" height=90>
+
+<hr>
+
+### Metrics:
+<table>
+	<tr>
+		<td colspan="2"><a href="https://github-readme-activity-graph.cyclic.app/graph?username=abhinavpreet&theme=react&area=true&hide_border=true">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinavpreet&theme=react&area=true&hide_border=true" width="100%">
+</a></td>
+	</tr>
+	<tr>
+		<td><p align="center"><img width=100% src="https://github-readme-stats.vercel.app/api?username=abhinavpreet&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"></p></td>
+		<td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavpreet&theme=dark"/></p></td>
+	</tr>
+	<tr>
+		<td colspan="2"><p align="center"><img width=100% src="https://github-profile-trophy.vercel.app/?username=abhinavpreet&hide_border=true&count_private=true&column=8&theme=dark&no-frame=true"></p></td>
+	</tr>
+	<tr>
+		<td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavpreet&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhinavpreet" /></p></td>
+		<td><p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavpreet&theme=vue" /></p></td>
+	</tr>
+</table>
+
+<hr>
+<a href="https://holopin.io/@abhinavpreet"><img src="https://holopin.me/abhinavpreet"></a>
+
+<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
