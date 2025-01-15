@@ -38,6 +38,6 @@ Don’t hesitate to reach out — I’m always open for a conversation! 🤝
 <hr>
 
 ### Languages, Tools, and Technologies:
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,py,git,github,vscode,aws,html,css,figma,nginx,linux,docker&theme=dark&perline=18" height=90>
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,py,git,github,vscode,html,css,figma&theme=dark&perline=18" height=90>
 
 <hr>
