@@ -16,6 +16,7 @@
 <hr>
 
 ### Projects:
+- **Salvus**: AI-powered tool for precise and concise First Aid:- anytime anywhere.
 - **GeneticX**: AI-powered tool for visualizing genetic mutations.
 - **Meteor Mind**: Quiz app with a space-themed UI.
 - **Blockify** — A blockchain project for digital asset security (HackIndia 2024).
