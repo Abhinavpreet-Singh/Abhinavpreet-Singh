@@ -9,8 +9,9 @@
 
 - 🎓 I am a first-year **Computer Science Engineering** student at **Chitkara University**, batch of **2024-2028**.
 - 👨‍💻 Passionate about **Web Development** and exploring **AI/ML tools**.
-- 🚀 I’ve participated in multiple hackathons, including **HTM5**, **HackIndia**, and **Code Slam**, as part of my team **Dive Into Infinity**.
-- 📚 I’m always learning — currently working on various projects for upcoming Hackathons
+- 🚀 I’ve participated in multiple hackathons, including **HTM 5.0 2024**, **HackIndia 2024**, and **SIH 2024**, **FusionFest 2025** and **HackStreet 2025** as part of my team **Dive Into Infinity**.
+- 🚀 I’ve also participated in several coding events, debate competitions, and Model United Nation Events as a part of my co-curricular.
+- 📚 I’m always learning — and currently working on various projects for upcoming Hackathons.
 
 <hr>
 
@@ -26,7 +27,6 @@
 ### Connect with Me:
 Don’t hesitate to reach out — I’m always open for a conversation! 🤝
 <a href="https://linkedin.com/in/abhinavpreet-singh-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavpreet-singh-arora" height="30" width="40" /></a>
-<a href="https://leetcode.com/abhinavpreet-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavpreet-arora" height="30" width="40" /></a>
 
 <hr>
 
