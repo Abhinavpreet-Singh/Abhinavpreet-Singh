@@ -14,19 +14,12 @@
 
 <hr>
 
-### Achievements
-- 🏆 **High Commendation Award** at Young India Model United Nations (Chitkara University)
-- 💻 **Sadak-AI Project** (HTM5 Hackathon) — Personalized learning roadmaps using AI.
-- 🔗 **Blockify** — A blockchain project for digital asset security (HackIndia 2024).
-- 📱 **Meteor Mind** — An interactive quiz app built using **React.js**.
-- ✨ **Plancor** — Buyer’s portal submitted to SIH 2024.
-
-<hr>
-
 ### Projects:
 - **GeneticX**: AI-powered tool for visualizing genetic mutations.
 - **Meteor Mind**: Quiz app with a space-themed UI.
+- **Blockify** — A blockchain project for digital asset security (HackIndia 2024).
 - **Plancor**: Buyer’s portal project focused on clean UX design.
+- **Sadak-AI Project** (HTM5 Hackathon) — Personalized learning roadmaps using AI.
 
 <hr>
 
