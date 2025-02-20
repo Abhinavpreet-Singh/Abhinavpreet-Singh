@@ -26,8 +26,8 @@
 <hr>
 
 ### Connect with Me:
-Don’t hesitate to reach out — I’m always open for a conversation! 🤝
-<a href="https://linkedin.com/in/abhinavpreet-singh-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavpreet-singh-arora" height="30" width="40" /></a>
+Don’t hesitate to reach out — I’m always open for a conversation~~
+<a href="https://linkedin.com/in/abhinavpreet-singh-arora" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/> </a> 
 
 <hr>
 
