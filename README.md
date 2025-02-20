@@ -1,6 +1,6 @@
 <!-- <img align="center" alt="" src="./web3.jpeg"> -->
 
-<h2 align="center"> Sup! , I'm <a href = "https://www.linkedin.com/in/abhinavpreet-singh-arora/">Abhinavpreet Singh Arora</a>! Nice to meet you here <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="👋🏻" height="35" width="35" /></h2>
+<h2 align="center"> Sup! , I'm <a href = "https://www.linkedin.com/in/abhinavpreet-singh-arora/">Abhinavpreet Singh </a>! Nice to meet you here <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="👋🏻" height="35" width="35" /></h2>
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavpreet&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpreet" /> </p>
