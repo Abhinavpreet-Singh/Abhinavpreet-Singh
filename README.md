@@ -34,14 +34,14 @@
       <p><code>React</code> <code>Firebase</code> <code>CSS</code></p>
     </td>
     <td align="center" width="33%">
-      <a href="https://meteor-mind.vercel.app" target="_blank">
+      <a href="https://meteormindquiz.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Meteor_Mind-0277BD?style=for-the-badge" alt="Meteor Mind"/>
       </a>
       <p>Space-themed interactive quiz application</p>
       <p><code>JavaScript</code> <code>Canvas API</code> <code>Node.js</code></p>
     </td>
     <td align="center" width="33%">
-      <a href="https://geneticx-viz.vercel.app" target="_blank">
+      <a href="https://genetic-x-hack-tu.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-GeneticX-01579B?style=for-the-badge" alt="GeneticX"/>
       </a>
       <p>AI-powered genetic mutation visualization tool</p>
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://lawgic-ai.vercel.app" target="_blank">
+      <a href="https://lawgic-lac.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Lawgic-039BE5?style=for-the-badge" alt="Lawgic"/>
       </a>
       <p>Legal document analysis and simplification platform</p>
@@ -64,7 +64,7 @@
       <p><code>React</code> <code>ML</code> <code>MongoDB</code></p>
     </td>
     <td align="center" width="33%">
-      <a href="https://plancor.vercel.app" target="_blank">
+      <a href="https://abhinavpreet-singh.github.io/Plancor-SIH-2024/" target="_blank">
         <img src="https://img.shields.io/badge/-Plancor-01579B?style=for-the-badge" alt="Plancor"/>
       </a>
       <p>Buyer's portal focused on seamless UX</p>
