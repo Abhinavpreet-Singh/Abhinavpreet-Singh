@@ -34,7 +34,7 @@
       <p><code>React</code> <code>Firebase</code> <code>CSS</code></p>
     </td>
     <td align="center" width="33%">
-      <a href="https://meteormindquiz.vercel.app/" target="_blank">
+      <a href="https://meteor-mind.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Meteor_Mind-0277BD?style=for-the-badge" alt="Meteor Mind"/>
       </a>
       <p>Space-themed interactive quiz application</p>
