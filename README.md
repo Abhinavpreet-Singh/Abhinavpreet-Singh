@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://lawgic-lac.vercel.app/" target="_blank">
+      <a href="https://lawgic-ai-three.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Lawgic-039BE5?style=for-the-badge" alt="Lawgic"/>
       </a>
       <p>Legal document analysis and simplification platform</p>
