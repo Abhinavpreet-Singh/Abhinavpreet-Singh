@@ -51,40 +51,46 @@
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="10" style="max-width: 1200px; margin: 0 auto;">
   <tr>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
-      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Meteor Mind</h3>
-      <a href="https://meteor-mind.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Meteor Mind"/>
-      </a>
-      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">An engaging space-themed quiz platform with dynamic scoring, interactive animations, and real-time leaderboards for competitive learning.</p>
-      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Meteor Mind</h3>
+        <a href="https://meteor-mind.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Meteor Mind"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">A space-themed quiz platform with interactive animations and leaderboards.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        </div>
       </div>
     </td>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
-      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Lawgic</h3>
-      <a href="https://lawgic-ai-three.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=openai&logoColor=white" alt="Lawgic"/>
-      </a>
-      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">An AI-powered legal research assistant featuring a smart chatbot for law Q&A, PDF document analysis, and IPC section finder for Indian legal scenarios.</p>
-      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/AI/ML-44A390?style=flat-square&logo=openai&logoColor=white" alt="AI/ML"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Lawgic</h3>
+        <a href="https://lawgic-ai-three.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=openai&logoColor=white" alt="Lawgic"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">AI-powered legal assistant with smart chatbot and document analysis capabilities.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/AI/ML-44A390?style=flat-square&logo=openai&logoColor=white" alt="AI/ML"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        </div>
       </div>
     </td>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
-      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Find Your Vibe</h3>
-      <a href="https://find-your-vibe.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Find Your Vibe"/>
-      </a>
-      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">A modern social platform that connects users through shared interests and activities, featuring real-time interactions and personalized recommendations.</p>
-      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Find Your Vibe</h3>
+        <a href="https://find-your-vibe.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Find Your Vibe"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">Social platform connecting users through shared interests with real-time interactions.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        </div>
       </div>
     </td>
   </tr>
