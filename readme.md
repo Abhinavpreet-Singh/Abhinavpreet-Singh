@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:444444&height=250&section=header&text=Sup!%20I%20am%20Abhinavpreet%20Singh&fontColor=ffffff&fontSize=42&fontAlignY=35&&descAlignY=55&animation=fadeIn" width="100%"/>
+  <div style="background: linear-gradient(45deg, #222222, #444444); padding: 40px 20px; border-radius: 20px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+    <h1 style="color: #ffffff; font-size: 48px; margin: 0; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Sup! I'm Abhinavpreet Singh</h1>
+    <div style="height: 4px; width: 100px; background: #44A390; margin: 15px auto; border-radius: 2px;"></div>
+  </div>
   
   <div style="margin-top:-20px">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=44A390&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Backend+Developer" alt="Typing SVG" />
@@ -49,54 +52,84 @@
   <div style="height: 2px; background: linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent); margin: 30px 0;"></div>
 </div>
 
-<h2 align="center"> Portfolio Highlights</h2>
+<h2 align="center" style="margin: 40px 0 30px 0; color: #44A390; font-size: 32px; font-weight: 600;">✨ Portfolio Highlights</h2>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="10" style="max-width: 1200px; margin: 0 auto;">
   <tr>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
+      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Find Your Vibe</h3>
       <a href="https://find-your-vibe.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/-Find_Your_Vibe-222222?style=for-the-badge&logo=react&logoColor=white" alt="Find Your Vibe"/>
+        <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Find Your Vibe"/>
       </a>
-      <p>Social platform connecting people with shared interests</p>
-      <p><code>React</code> <code>Firebase</code> <code>CSS</code></p>
+      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">Social platform connecting people with shared interests</p>
+      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+      </div>
     </td>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
+      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Meteor Mind</h3>
       <a href="https://meteor-mind.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-Meteor_Mind-222222?style=for-the-badge&logo=javascript&logoColor=white" alt="Meteor Mind"/>
+        <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=javascript&logoColor=white" alt="Meteor Mind"/>
       </a>
-      <p>Space-themed interactive quiz application</p>
-      <p><code>JavaScript</code> <code>Canvas API</code> <code>Node.js</code></p>
+      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">Space-themed interactive quiz application</p>
+      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Canvas-000000?style=flat-square&logo=html5&logoColor=white" alt="Canvas"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      </div>
     </td>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
+      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">GeneticX</h3>
       <a href="https://genetic-x-hack-tu.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-GeneticX-222222?style=for-the-badge&logo=python&logoColor=white" alt="GeneticX"/>
+        <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=python&logoColor=white" alt="GeneticX"/>
       </a>
-      <p>AI-powered genetic mutation visualization tool</p>
-      <p><code>D3.js</code> <code>Python</code> <code>React</code></p>
+      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">AI-powered genetic mutation visualization tool</p>
+      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
+      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Lawgic</h3>
       <a href="https://lawgic-ai-three.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-Lawgic-222222?style=for-the-badge&logo=openai&logoColor=white" alt="Lawgic"/>
+        <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=openai&logoColor=white" alt="Lawgic"/>
       </a>
-      <p>Legal document analysis and simplification platform</p>
-      <p><code>NLP</code> <code>React</code> <code>Node.js</code></p>
+      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">Legal document analysis and simplification platform</p>
+      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/NLP-44A390?style=flat-square&logo=openai&logoColor=white" alt="NLP"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      </div>
     </td>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
+      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Sadak AI</h3>
       <a href="https://sadak-ai.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/-Sadak_AI-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Sadak AI"/>
+        <img src="https://img.shields.io/badge/View_Project-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Sadak AI"/>
       </a>
-      <p>AI-driven personalized learning roadmaps</p>
-      <p><code>React</code> <code>ML</code> <code>MongoDB</code></p>
+      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">AI-driven personalized learning roadmaps</p>
+      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </div>
     </td>
-    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease;">
+      <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Plancor</h3>
       <a href="https://abhinavpreet-singh.github.io/Plancor-SIH-2024/" target="_blank">
-        <img src="https://img.shields.io/badge/-Plancor-333333?style=for-the-badge&logo=redux&logoColor=white" alt="Plancor"/>
+        <img src="https://img.shields.io/badge/View_Project-333333?style=for-the-badge&logo=redux&logoColor=white" alt="Plancor"/>
       </a>
-      <p>Buyer's portal focused on seamless UX</p>
-      <p><code>React</code> <code>Redux</code> <code>Firebase</code></p>
+      <p style="margin: 15px 0; color: #ddd; line-height: 1.5;">Buyer's portal focused on seamless UX</p>
+      <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+      </div>
     </td>
   </tr>
 </table>
@@ -213,15 +246,6 @@
 <div align="center">
   <div style="height: 2px; background: linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent); margin: 30px 0;"></div>
 </div>
-
-<!-- Animation Deployment Instructions (Hidden in GitHub) -->
-<!-- 
-## Animation Deployment
-1. Push this entire repository to GitHub
-2. Go to repo Settings > Pages
-3. Enable GitHub Pages (Source: main branch)
-4. Your animation will be available at https://[your-username].github.io/[repo-name]/
--->
 
 <!-- ENHANCED GITHUB ACTIVITY SECTION -->
 <div align="center" style="margin-top: 40px;">
