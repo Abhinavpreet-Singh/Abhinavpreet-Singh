@@ -57,7 +57,7 @@
         <a href="https://meteor-mind.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Meteor Mind"/>
         </a>
-        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">A space-themed quiz platform with interactive animations and leaderboards.</p>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">A space-themed quiz platform with interactive animations and realtime leaderboards.</p>
         <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
           <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
