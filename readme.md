@@ -18,7 +18,7 @@
   
   <div style="margin:20px 0">
     <a href="https://www.linkedin.com/in/abhinavpreet-singh-arora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-    <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
+    <a href="https://discord.com/users/apsarora"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
     <img src="https://komarev.com/ghpvc/?username=abhinavpreet&style=for-the-badge&color=44A390" alt="Profile Views"/>
   </div>
 </div>
@@ -114,28 +114,30 @@
 </div>
 
 <!-- Hackathon Cards -->
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 1200px; margin: 0 auto;">
   <tr>
-    <td width="50%" align="center">
-      <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2);">
-        <h3 style="color: white; margin-bottom: 15px; border-bottom: 1px solid rgba(255,255,255,0.2); padding-bottom: 10px; text-align: center;">🌐 Online Hackathons</h3>
-        <div style="margin:15px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <td width="50%" align="center" style="padding: 10px;">
+      <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 25px; margin: 10px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2); height: 100%;">
+        <h3 style="color: white; margin-bottom: 20px; border-bottom: 1px solid rgba(255,255,255,0.2); padding-bottom: 10px; text-align: center;">🌐 Online Hackathons</h3>
+        <div style="margin: 15px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
           <img src="https://img.shields.io/badge/HTM_5.0-2024-44A390?style=for-the-badge&labelColor=222222" height="30" alt="HTM 5.0"/>
           <img src="https://img.shields.io/badge/SIH-2024-44A390?style=for-the-badge&labelColor=222222" height="30" alt="SIH"/>
           <img src="https://img.shields.io/badge/HackStreet-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="HackStreet"/>
           <img src="https://img.shields.io/badge/Build_with_India-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="Build with India"/>
           <img src="https://img.shields.io/badge/HackSummit-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="HackSummit"/>
-          <img src="https://img.shields.io/badge/Google_Solution_Challenge-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="Google Solution Challenge"/>
+          <img src="https://img.shields.io/badge/Hack_With_Tricity-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="Hack With Tricity"/>
         </div>
       </div>
     </td>
-    <td width="50%" align="center">
-      <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2);">
-        <h3 style="color: white; margin-bottom: 15px; border-bottom: 1px solid rgba(255,255,255,0.2); padding-bottom: 10px; text-align: center;">🏢 Offline Hackathons</h3>
-        <div style="margin:15px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <td width="50%" align="center" style="padding: 10px;">
+      <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 25px; margin: 10px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2); height: 100%;">
+        <h3 style="color: white; margin-bottom: 20px; border-bottom: 1px solid rgba(255,255,255,0.2); padding-bottom: 10px; text-align: center;">🏢 Offline Hackathons</h3>
+        <div style="margin: 15px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
           <img src="https://img.shields.io/badge/HACKINDIA-2024-44A390?style=for-the-badge&labelColor=222222" height="30" alt="HACKINDIA"/>
+          <img src="https://img.shields.io/badge/HACKINDIA-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="HACKINDIA 2025"/>
           <img src="https://img.shields.io/badge/FusionFest-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="FusionFest"/>
           <img src="https://img.shields.io/badge/HackTU_6.0-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="HackTU 6.0"/>
+          <img src="https://img.shields.io/badge/Google_Solution_Challenge-2025-44A390?style=for-the-badge&labelColor=222222" height="30" alt="Google Solution Challenge"/>
         </div>
       </div>
     </td>
