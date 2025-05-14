@@ -106,16 +106,19 @@
 <!-- Hackathon Journey with Animated Infinity Symbol -->
 <h2 align="center">🏆 Hackathon Journey</h2>
 
-<div align="center">  <!-- Animated Infinity Symbol with GIF -->
+<div align="center">  <!-- Animated Infinity Symbol -->
   <p align="center">
-    <img src="icons8-loading-infinity.gif" height="40" alt="Infinity Animation" style="vertical-align:middle;"/>
+    <a href="https://lottiefiles.com/animations/infinity-symbol-animation-10WDMBWL9y" target="_blank">
+      <img src="https://github.com/lgwazer/images/blob/main/infinity-animation.gif?raw=true" height="50" alt="Infinity Animation" style="vertical-align:middle;"/>
+    </a>
     <img src="https://img.shields.io/badge/Team-Dive_Into_Infinity-44A390?style=for-the-badge&logo=github&logoColor=white&labelColor=222222" height="35" alt="Team" style="vertical-align:middle; margin:0 10px;"/>
-    <img src="icons8-loading-infinity.gif" height="40" alt="Infinity Animation" style="vertical-align:middle;"/>
+    <a href="https://lottiefiles.com/animations/infinity-symbol-animation-10WDMBWL9y" target="_blank">
+      <img src="https://github.com/lgwazer/images/blob/main/infinity-animation.gif?raw=true" height="50" alt="Infinity Animation" style="vertical-align:middle;"/>
+    </a>
   </p>
-    <!-- Animation Notes - The HTML files will need GitHub Pages to display -->
   <p align="center">
-    <a href="https://lottiefiles.com/free-animation/infinity-symbol-animation-10WDMBWL9y" target="_blank">
-      <img src="https://img.shields.io/badge/View_Original_Lottie-222222?style=for-the-badge&logo=lottiefiles&logoColor=44A390" height="30" alt="View Original Lottie"/>
+    <a href="https://lottiefiles.com/animations/infinity-symbol-animation-10WDMBWL9y" target="_blank">
+      <img src="https://img.shields.io/badge/View_Lottie_Animation-222222?style=for-the-badge&logo=lottiefiles&logoColor=44A390" height="30" alt="View Lottie Animation"/>
     </a>
   </p>
 </div>
