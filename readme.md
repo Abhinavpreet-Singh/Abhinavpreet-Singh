@@ -211,14 +211,13 @@
 <div align="center" style="margin-top: 40px;">
   <h2 align="center">📊 GitHub Activity</h2>
   
-  <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(20px); border-radius: 16px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin-bottom: 30px; border: 1px solid rgba(255,255,255,0.1);">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinavpreet-Singh&theme=github_dark" width="100%" alt="GitHub Stats" />
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
+    <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(20px); border-radius: 16px; padding: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); flex: 1; min-width: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpreet-Singh&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&size=large" alt="Most Used Languages" style="width: 80%; max-width: 100px; margin: 0 auto; display: block;"/>
+    </div>
   </div>
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
-    <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(20px); border-radius: 16px; padding: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); flex: 1; min-width: 250px;">
-      <h3 style="color: #44A390; margin-bottom: 10px; font-size: 32px; font-weight: 600; text-align: center;">💻 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpreet-Singh&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&size=large" alt="Most Used Languages" style="width: 100%; max-width: 120px; margin: 0 auto; display: block;"/>
-    </div>
+  <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(20px); border-radius: 16px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin: 30px 0; border: 1px solid rgba(255,255,255,0.1);">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinavpreet-Singh&theme=github_dark" width="100%" alt="GitHub Stats" />
   </div>
 </div>
