@@ -1,0 +1,42 @@
+name: Update README
+
+on:
+  # Run on pushes to the main branch
+  push:
+    branches: [ main ]
+  # Allow manual triggering
+  workflow_dispatch:
+  # Run automatically every week (adjust as needed)
+  schedule:
+    - cron: '0 0 * * 0'  # Runs at midnight on Sunday
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # Ensure the repo has the GIF files
+      - name: Verify assets
+        run: |
+          if [ -f "Animation - 1747240501280.gif" ]; then
+            echo "Animation file found"
+          else
+            echo "Animation file not found. Please ensure it's in the repository."
+            exit 1
+          fi
+
+      # Optional: Update GitHub stats dynamically
+      - name: Update GitHub stats
+        run: |
+          echo "You could add scripts here to dynamically update GitHub stats"
+          
+      # Commit and push any changes
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated README update" && git push)

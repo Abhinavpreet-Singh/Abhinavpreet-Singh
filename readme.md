@@ -4,8 +4,12 @@
   <div style="margin-top:-20px">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=44A390&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Backend+Developer" alt="Typing SVG" />
   </div>
+  
+  <div style="margin:-5px 0 10px 0;">
+    <img src="Animation - 1747240501280.gif" height="40" alt="Infinity Animation" />
+  </div>
 
-  <p style="font-size: 18px; color: #ddd; margin-top: -10px; margin-bottom: 20px;">
+  <p style="font-size: 18px; color: #ddd; margin-top: -5px; margin-bottom: 20px;">
     <i>"Code is poetry, and every commit is a verse"</i>
   </p>
   
@@ -108,18 +112,9 @@
 
 <div align="center">  <!-- Animated Infinity Symbol -->
   <p align="center">
-    <a href="https://lottiefiles.com/animations/infinity-symbol-animation-10WDMBWL9y" target="_blank">
-      <img src="https://github.com/lgwazer/images/blob/main/infinity-animation.gif?raw=true" height="50" alt="Infinity Animation" style="vertical-align:middle;"/>
-    </a>
+    <img src="Animation - 1747240501280.gif" height="60" alt="Infinity Animation" style="vertical-align:middle;"/>
     <img src="https://img.shields.io/badge/Team-Dive_Into_Infinity-44A390?style=for-the-badge&logo=github&logoColor=white&labelColor=222222" height="35" alt="Team" style="vertical-align:middle; margin:0 10px;"/>
-    <a href="https://lottiefiles.com/animations/infinity-symbol-animation-10WDMBWL9y" target="_blank">
-      <img src="https://github.com/lgwazer/images/blob/main/infinity-animation.gif?raw=true" height="50" alt="Infinity Animation" style="vertical-align:middle;"/>
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://lottiefiles.com/animations/infinity-symbol-animation-10WDMBWL9y" target="_blank">
-      <img src="https://img.shields.io/badge/View_Lottie_Animation-222222?style=for-the-badge&logo=lottiefiles&logoColor=44A390" height="30" alt="View Lottie Animation"/>
-    </a>
+    <img src="Animation - 1747240501280.gif" height="60" alt="Infinity Animation" style="vertical-align:middle;"/>
   </p>
 </div>
 
