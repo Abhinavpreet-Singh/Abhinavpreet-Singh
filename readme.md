@@ -28,23 +28,17 @@
   <div style="height: 2px; background: linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent); margin: 30px 0;"></div>
 </div>
 
-<h2 align="center">About Me</h2>
+<h2 align="center" style="margin: 40px 0 30px 0; color: #44A390; font-size: 32px; font-weight: 600;">👨‍💻 About Me</h2>
 
 <div align="center">
-  <table border="0" style="width: 100%; max-width: 1200px;">
-    <tr>
-      <td width="60%" align="left" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
-        <ul>
-          <li>🎓 <b>Computer Science Engineering</b> student at <b>Chitkara University</b> (2024-2028)</li>
-          <li>🚀 Building innovative solutions at the intersection of design and development</li>
-          <li>🏆 Debater & MUN delegate at national-level conferences</li>
-        </ul>
-      </td>
-      <td width="40%" align="center" style="padding: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpreet-Singh&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&size=large" alt="Most Used Languages" style="width: 100%; max-width: 400px;"/>
-      </td>
-    </tr>
-  </table>
+  <div style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); max-width: 800px; margin: 0 auto;">
+    <ul style="list-style: none; padding: 0; margin: 0; text-align: center;">
+      <li style="margin-bottom: 15px; font-size: 18px; line-height: 1.6; color: #ddd; max-width: 600px; margin-left: auto; margin-right: auto;">🎓 Computer Science Engineering student at Chitkara University, passionate about full-stack development.</li>
+      <li style="margin-bottom: 15px; font-size: 18px; line-height: 1.6; color: #ddd; max-width: 600px; margin-left: auto; margin-right: auto;">♾️ Dive Into Infinity – Pushing boundaries in technology and innovation through creative problem-solving.</li>
+      <li style="margin-bottom: 15px; font-size: 18px; line-height: 1.6; color: #ddd; max-width: 600px; margin-left: auto; margin-right: auto;">🔧 Exploring AI, Machine Learning, and full-stack development through personal and collaborative projects.</li>
+      <li style="font-size: 18px; line-height: 1.6; color: #ddd; max-width: 600px; margin-left: auto; margin-right: auto;">🎶 Beyond code – A percussionist, MUN delegate, and debater, combining creativity with strategic thinking.</li>
+    </ul>
+  </div>
 </div>
 
 <!-- Glass Divider -->
@@ -212,6 +206,13 @@
   <h2 align="center">📊 GitHub Activity</h2>
   
   <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(20px); border-radius: 16px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin-bottom: 30px; border: 1px solid rgba(255,255,255,0.1);">
-    <!-- Enlarged GitHub profile summary with dark theme -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinavpreet-Singh&theme=github_dark" width="100%" alt="GitHub Stats" />
   </div>
+
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
+    <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(20px); border-radius: 16px; padding: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); flex: 1; min-width: 250px;">
+      <h3 style="color: #44A390; margin-bottom: 10px; font-size: 32px; font-weight: 600; text-align: center;">💻 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpreet-Singh&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&size=large" alt="Most Used Languages" style="width: 100%; max-width: 120px; margin: 0 auto; display: block;"/>
+    </div>
+  </div>
+</div>
