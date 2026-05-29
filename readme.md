@@ -82,7 +82,7 @@
     <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
       <div style="display: flex; flex-direction: column; height: 100%;">
         <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">RaceSafe</h3>
-        <a href="https://github.com" target="_blank">
+        <a href="https://github.com/Abhinavpreet-Singh/RaceSafe" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white" alt="RaceSafe"/>
         </a>
         <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">AI-powered DeFi security ecosystem for MEV attack detection, smart contract auditing, and adaptive on-chain transaction protection.</p>
@@ -248,7 +248,11 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge" alt="Recharts"/>
+      <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Monaco Editor"/>
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -270,9 +274,47 @@
   <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 20px; margin: 15px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2); transition: transform 0.3s;">
     <h3 style="color: #eee; text-shadow: 0 2px 5px rgba(0,0,0,0.2);">Backend Development</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    </div>
+  </div>
+
+  <!-- Data, AI & Caching Section -->
+  <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 20px; margin: 15px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2); transition: transform 0.3s;">
+    <h3 style="color: #eee; text-shadow: 0 2px 5px rgba(0,0,0,0.2);">Data, AI & Caching</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/LM_Studio-222222?style=for-the-badge" alt="LM Studio"/>
+    </div>
+  </div>
+
+  <!-- Blockchain & Smart Contracts Section -->
+  <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 20px; margin: 15px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2); transition: transform 0.3s;">
+    <h3 style="color: #eee; text-shadow: 0 2px 5px rgba(0,0,0,0.2);">Blockchain & Smart Contracts</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat"/>
+      <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
+    </div>
+  </div>
+
+  <!-- Mobile & Apple Section -->
+  <div style="background: rgba(20,20,20,0.7); backdrop-filter: blur(15px); border-radius: 16px; padding: 20px; margin: 15px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.2); transition: transform 0.3s;">
+    <h3 style="color: #eee; text-shadow: 0 2px 5px rgba(0,0,0,0.2);">Mobile & Apple Ecosystem</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+      <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+      <img src="https://img.shields.io/badge/Swift_6-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift 6"/>
+      <img src="https://img.shields.io/badge/MapKit-1E90FF?style=for-the-badge&logo=apple&logoColor=white" alt="MapKit"/>
+      <img src="https://img.shields.io/badge/UserDefaults-555555?style=for-the-badge&logo=apple&logoColor=white" alt="UserDefaults"/>
     </div>
   </div>
 
@@ -284,6 +326,8 @@
       <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
     </div>
