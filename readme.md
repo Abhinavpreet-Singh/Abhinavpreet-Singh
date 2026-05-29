@@ -97,6 +97,50 @@
   <tr>
     <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
       <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Regraze</h3>
+        <a href="https://github.com/Abhinavpreet-Singh/Regraze" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white" alt="Regraze"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">A local-first regression intelligence platform for evaluating fine-tuned LLMs with benchmark generation, delta analysis, and diagnostic remediation pipelines.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        </div>
+      </div>
+    </td>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">GigZo</h3>
+        <a href="https://github.com/Abhinavpreet-Singh/GigZo" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white" alt="GigZo"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">An AI-powered parametric insurance platform for gig workers with disruption detection, fraud analysis, claim validation, and instant payouts.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        </div>
+      </div>
+    </td>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Carboné</h3>
+        <a href="https://github.com/Abhinavpreet-Singh/carbone_apple" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white" alt="Carboné"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">An offline-first iOS carbon credit estimation platform using IPCC Tier-1 methods, MapKit-based land analysis, and sustainability projections.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/>
+          <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift 6"/>
+          <img src="https://img.shields.io/badge/MapKit-1E90FF?style=flat-square&logo=apple&logoColor=white" alt="MapKit"/>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
         <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Meteor Mind</h3>
         <a href="https://meteor-mind.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Meteor Mind"/>
