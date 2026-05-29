@@ -53,6 +53,50 @@
   <tr>
     <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
       <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Enum</h3>
+        <a href="https://enum.live" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="Enum"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">Real-World Developer Training Platform with live codebase challenges, sandboxed Docker execution, and automated test evaluation.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        </div>
+      </div>
+    </td>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Eventix360</h3>
+        <a href="https://eventix360.app" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Eventix360"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">Full-stack event management platform for registrations, scheduling, QR verification, organizer dashboards, and real-time event coordination.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        </div>
+      </div>
+    </td>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">RaceSafe</h3>
+        <a href="https://github.com" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white" alt="RaceSafe"/>
+        </a>
+        <p style="margin: 15px 0; color: #ddd; line-height: 1.5; flex-grow: 1;">AI-powered DeFi security ecosystem for MEV attack detection, smart contract auditing, and adaptive on-chain transaction protection.</p>
+        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: auto;">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+          <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black" alt="Hardhat"/>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="background: rgba(20,20,20,0.5); backdrop-filter: blur(10px); border-radius: 16px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s ease; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
         <h3 style="color: #44A390; font-size: 24px; margin-bottom: 20px; font-weight: 600; text-align: center; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Meteor Mind</h3>
         <a href="https://meteor-mind.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=react&logoColor=white" alt="Meteor Mind"/>
